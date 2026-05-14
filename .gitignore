@@ -1,0 +1,18 @@
+# Dataset — too large for GitHub
+data/
+PlantVillage/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Uploaded images (user uploads, not needed)
+static/uploads/
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
