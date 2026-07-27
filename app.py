@@ -167,5 +167,5 @@ def get_classes():
 # ─────────────────────────────────────────
 if __name__ == "__main__":
     load_resources()
-    port = int(os.environ.get("PORT", 5000))
+    port = int(os.environ.get("PORT", 7860))
     app.run(host="0.0.0.0", port=port)
